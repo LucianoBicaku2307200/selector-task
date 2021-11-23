@@ -1,0 +1,48 @@
+//font-sizes
+
+//buttons
+.main-black-button {
+  padding: 11px 40px;
+  background-color: #000;
+  color: #fff;
+  transition: all ease-in-out 0.5s;
+  cursor: pointer;
+  &:hover {
+    background-color: gray;
+  }
+}
+
+.main-white-button {
+  padding: 11px 40px;
+  background-color: #fff;
+  color: #000;
+  transition: all ease-in-out 0.5s;
+  cursor: pointer;
+  &:hover {
+    color: #fff;
+    background-color: #000;
+  }
+}
+
+.medium-black-button {
+  padding: 12px 35px;
+  background-color: #000;
+  color: #fff;
+  transition: all ease-in-out 0.5s;
+  cursor: pointer;
+  &:hover {
+    background-color: gray;
+  }
+}
+
+.medum-white-button {
+  padding: 12px 35px;
+  background-color: #fff;
+  color: #000;
+  transition: all ease-in-out 0.5s;
+  cursor: pointer;
+  &:hover {
+    color: #fff;
+    background-color: #000;
+  }
+}

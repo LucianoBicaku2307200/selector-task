@@ -1,0 +1,25 @@
+header {
+  background-color: #263d9a;
+  color: white;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 13px 0;
+  span {
+    font-weight: 400;
+    font-style: italic;
+    font-size: 14px;
+  }
+  a {
+    font: normal normal medium 14px/18px Montserrat;
+  }
+  @media (max-width: 650px) {
+    flex-direction: column;
+    align-items: center;
+    padding: 14px 60px;
+    gap: 1px;
+    span {
+      text-align: center;
+    }
+  }
+}

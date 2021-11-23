@@ -1,0 +1,9 @@
+export { default as Header } from "./Header";
+export { default as HeroSection } from "./HeroSection";
+export { default as Section2 } from "./Section2";
+export { default as BigSlider } from "./BigSlider";
+export { default as NewIn } from "./NewIn";
+export { default as SelectGender } from "./SelectGender";
+export { default as ForYou } from "./ForYou";
+export { default as OurBrands } from "./OurBrands";
+export { default as Footer } from "./Footer";
